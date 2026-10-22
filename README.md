@@ -7,7 +7,7 @@ A Kurdish, right-to-left point-of-sale and sales-management app built with PHP, 
 1. Run Apache and MySQL from XAMPP.
 2. Place the project in the web root and open it through `http://localhost/aland_pos/`.
 3. Ensure PHP's PDO MySQL extension is enabled. The MySQL account configured at the top of `index.php` must be able to create the `aland_pos` database on first run.
-4. Sign in with the initial account `admin@aland.io` / `123456`, then change the password from **Settings**.
+4. Sign in with the initial account `alandhamza55@gmail.com` / `123456`, then change the password from **Settings**.
 
 The application creates its tables automatically and inserts sample products and customers into an empty database. Existing databases are extended with the new purchasing, expense, order-line, and inventory-movement tables on startup.
 
